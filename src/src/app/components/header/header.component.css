@@ -1,0 +1,188 @@
+
+
+img{
+    position: fixed;
+z-index: 1;
+width: 53px;
+left: 18px;
+top: 44px;
+border-radius: 0px;
+}
+.img2{
+width: 53px;
+border-radius: 0px;
+position: absolute;
+left: 95%;
+top: 44px;
+}
+
+.esedor{
+width: 53px;
+left: 80px;
+top: 30px;
+border-radius: 0px;
+position: absolute;
+}
+.industrias{
+width: 53px;
+left: 18px;
+border-radius: 0px;
+position: absolute;
+left: 90%;
+top: 30px;
+}
+
+.cliente{
+
+width: 89px;
+height: 74px;
+position: absolute;
+top: 160px;
+left: 175px;
+font-size: 20px;
+    
+}
+
+.date{
+width: 224px;
+height: 49px;
+top: 159px;
+left: 493px;
+position: absolute;
+}
+
+p{
+font-family: Lexend;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.0015em;
+
+color: #000000;
+}
+
+.titu-princi{
+    position: absolute;
+    width: 1200px;
+    height: 173px;
+    left: -15px;
+    top: 175px;
+    
+    font-family: Lexend Zetta;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 75px;
+    line-height: 180px;
+    
+    color: #000000;
+}
+
+
+
+.entegables{
+position: absolute;
+width: 191px;
+height: 144px;
+left: 175px;
+top: 443px;
+font-family: Lexend;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.0015em;
+color: #000000;
+}
+
+.role{
+position: absolute;
+width: 144px;
+height: 129px;
+left: 493px;
+top: 443px;
+font-family: Lexend;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.0015em;
+color: #000000;
+
+}
+
+.prixa{
+    position: absolute;
+width: 400px;
+height: 132px;
+left: 150px;
+top: 100%;
+font-family: Lexend;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 31px;
+color: #000000;
+}
+
+.esedor-2{
+position: absolute;
+width: 400px;
+height: 132px;
+left: 780px;
+top: 100%;
+font-family: Lexend;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 31px;
+color: #000000;
+
+}
+
+.img-cel{
+    position: absolute;
+width: 356px;
+height: 664px;
+left: 990px;
+top: 99px;
+
+background: url(../../../assets/img/Rectangle.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.line-1{
+    position: absolute;
+width: 42px;
+height: 0px;
+left: 1290px;
+top: 34px;
+
+/* Grey4 */
+
+border: 5px solid #D8D8D8;
+}
+
+.line-2{
+    position: absolute;
+    width: 21px;
+    height: 0px;
+    left: 1290px;
+    top: 48px;
+    
+    /* Grey4 */
+    
+    border: 5px solid #D8D8D8;
+}
+
+.line-3{
+    position: absolute;
+    width: 42px;
+    height: 0px;
+    left: 1290px;
+    top: 61px;
+    
+    /* Grey4 */
+    
+    border: 5px solid #D8D8D8;
+}

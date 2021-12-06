@@ -1,0 +1,22 @@
+.body{
+position: absolute;
+width: 100%;
+height: 1080px;
+left: 0px;
+top: 850px;
+
+background: #F46D0F;
+}
+
+.compu-img{
+
+
+position: absolute;
+width: 1055px;
+height: 886px;
+left: 250px;
+top: 100px;
+
+/* background: url(../../../assets/img/Vectary\ texture.png); */
+
+}

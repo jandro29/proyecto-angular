@@ -1,0 +1,168 @@
+.body {
+  position: absolute;
+  width: 1349px;
+  height: 1000px;
+  top: 1145%;
+  left: 0px;
+  background: #3880d3;
+}
+
+.inicio-proyect {
+  position: absolute;
+  width: 266px;
+  height: 19px;
+  left: 587px;
+  top: 157px;
+
+  /* S2 */
+
+  font-family: Lexend;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: 0.0015em;
+
+  color: #ffffff;
+}
+
+.esedor {
+  position: absolute;
+  width: 604px;
+  height: 68px;
+  left: 418px;
+  top: 210px;
+
+  /* H2 */
+
+  font-family: Lexend;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 44px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.nombres {
+  position: absolute;
+  width: 480px;
+  height: 60px;
+  left: 15%;
+  top: 40%;
+
+  /* Blue 2 */
+
+  background: #222de9;
+  border-radius: 12px;
+}
+
+.apellidos {
+  position: absolute;
+  width: 480px;
+  height: 60px;
+  left: 55%;
+  top: 40%;
+
+  /* Blue 2 */
+
+  background: #222de9;
+  border-radius: 12px;
+}
+
+.correo {
+  position: absolute;
+  width: 480px;
+  height: 60px;
+  left: 15%;
+  top: 50%;
+
+  /* Blue 2 */
+
+  background: #222de9;
+  border-radius: 12px;
+}
+
+.numero {
+  position: absolute;
+  width: 480px;
+  height: 60px;
+  left: 55%;
+  top: 50%;
+
+  /* Blue 2 */
+
+  background: #222de9;
+  border-radius: 12px;
+}
+
+.cargo {
+  position: absolute;
+  width: 480px;
+  height: 60px;
+  left: 15%;
+  top: 60%;
+
+  /* Blue 2 */
+
+  background: #222de9;
+  border-radius: 12px;
+}
+
+.tiempo {
+  position: absolute;
+  width: 480px;
+  height: 60px;
+  left: 55%;
+  top: 60%;
+
+  /* Blue 2 */
+
+  background: #222de9;
+  border-radius: 12px;
+}
+
+.descripcion {
+  position: absolute;
+  width: 1030px;
+  height: 177px;
+  left: 200px;
+  top: 70%;
+
+  /* Blue 2 */
+
+  background: #222de9;
+  border-radius: 12px;
+}
+
+::placeholder {
+  position: absolute;
+  color: white;
+  font-size: 1.5em;
+  top: 30px;
+  left: 30px;
+}
+
+.escribenos{
+
+    position: absolute;
+width: 496px;
+height: 58px;
+left: 472px;
+top: 880px;
+
+/* H4 */
+
+font-family: Lexend;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.0025em;
+
+color: #FFFFFF;
+
+}

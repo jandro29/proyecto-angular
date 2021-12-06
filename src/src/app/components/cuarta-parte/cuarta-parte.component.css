@@ -1,0 +1,58 @@
+.body{
+
+    width: 99.4%;
+    height: 100%;
+    margin: 0px;
+    position: absolute;
+    /* background: aqua; */
+    top: 630%;
+
+}
+
+
+.part-1{
+
+
+margin: 0px;
+position: absolute;
+width: 51%;
+height: 150%;
+left: -10px;
+top: 0px;
+
+/* Gradient 1 */
+
+background: linear-gradient(3.37deg, #000000 2.68%, #454C59 154.23%);
+}
+
+.part-2{
+
+position: absolute;
+width: 50%;
+height: 150%;
+left: 50%;
+top: 0px;
+
+/* Blue 2 */
+
+background: #222DE9;
+}
+
+.img1{
+position: absolute;
+width: 698px;
+height: 952px;
+left: 0px;
+
+
+}
+
+.img2{
+
+    position: absolute;
+    width: 471px;
+    height: 899px;
+    left: 120px;
+    top: 25px;
+    
+}
